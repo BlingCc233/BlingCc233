@@ -1,10 +1,13 @@
+<div align="center">
+  
+# BlingCc
 <p align="center">
   <a href="https://blingcc233.github.io/">
-    <img src="https://raw.githubusercontent.com/BlingCc233/BlingCc233/main/CCko.png" width="300" height="300" alt="Cc-bot">
+    <img src="https://raw.githubusercontent.com/BlingCc233/BlingCc233/main/CCko.png" width="300" height="300" alt="Cc">
   </a>
 </p>
 
-# BlingCc
+</div>
 
 <!--
 **BlingCc233/BlingCc233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
