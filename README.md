@@ -3,7 +3,7 @@
 # BlingCc
 <p align="center">
   <a href="https://blingcc233.github.io/">
-    <img src="https://raw.githubusercontent.com/BlingCc233/BlingCc233/main/CCko.png" width="300" height="300" alt="Cc">
+    <img src="https://raw.githubusercontent.com/BlingCc233/BlingCc233/main/CCko.png" width="600" height="600" alt="Cc">
   </a>
 </p>
 
