@@ -3,7 +3,7 @@
 ### ✨ _是Cc吖_ ✨
 <p align="center">
   <a href="https://blingcc233.github.io/">
-    <img src="https://raw.githubusercontent.com/BlingCc233/BlingCc233/main/CCko.png" width="500" height="500" alt="Cc">
+    <img src="https://raw.githubusercontent.com/BlingCc233/BlingCc233/main/CCko.png" width="400"  alt="Cc">
   </a>
 </p>
 
