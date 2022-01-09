@@ -8,6 +8,7 @@
 </p>
 
 ![BlingCc's github stats](https://github-readme-stats.vercel.app/api?username=BlingCc233&show_icons=true)
+![](https://raw.githubusercontent.com/BlingCc233/BlingCc233/main/github-user-contribution.svg)
 
 </div>
   
