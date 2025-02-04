@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlingCc233&layout=compact&langs_count=8&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/>
+
 ![BlingCc's github stats](https://github-readme-stats.vercel.app/api?username=BlingCc233&show_icons=true)
 ![](https://raw.githubusercontent.com/BlingCc233/BlingCc233/main/github-user-contribution.svg)
 
